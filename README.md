@@ -29,7 +29,7 @@ The **ICBYTES** library was used to manage the different elements of the animati
 
 **Animation Flow and Speed Settings**: The movement speed of the characters and scene transition times are dynamically adjusted in the code. For example, while the agent character waits at the beginning, when the UFO reaches the middle of the average distance, it accelerates and starts running. Such flows are sensitive to events in the scene.
 
-*Sound Effects**: Sound effects were played in parallel using the `ICBYTES` library. UFO and cow sounds played during the animation add atmosphere to the scene.
+**Sound Effects**: Sound effects were played in parallel using the `ICBYTES` library. UFO and cow sounds played during the animation add atmosphere to the scene.
 
 ## Project video 
 
