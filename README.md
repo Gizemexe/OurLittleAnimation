@@ -7,7 +7,7 @@
 To run this project, make sure the following requirements are met:
 
 - **C++ compiler** (ex: Visual Studio 2022)
-- **ICBYTES Library**: The project requires the ICBYTES library. [You can download it here]([https://github.com/cembaykal/ICBYTES])
+- **ICBYTES Library**: The project requires the ICBYTES library. [You can download it here](https://github.com/cembaykal/ICBYTES)
 
 ## Purpose of the Project
 <p> - In the project, a dynamic environment is created, complete with a running animation of a character, a background scene and sound effects. The project aims to present an interactive animation by synchronizing both visual and auditory elements.</p>
